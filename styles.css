@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to bottom, #00c4cc, #00a1b5);
+    background: url(bg-pattern-bottom.svg), linear-gradient(to bottom, #00c4cc, #00a1b5);
     align-items: center;
     display: flex;
     height: 100vh;
@@ -86,3 +86,4 @@ span {
     margin-top: 0;
     opacity: 0.9;
 }
+
