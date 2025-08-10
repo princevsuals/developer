@@ -18,6 +18,7 @@ body {
     background-image: url(bg-pattern-card.svg);
     background-repeat: repeat-x;
     overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 
 }
 
@@ -86,6 +87,7 @@ span {
     margin-top: 0;
     opacity: 0.9;
 }
+
 
 
 
