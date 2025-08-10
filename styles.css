@@ -12,7 +12,8 @@ body {
 
 .container {
     background-color: white;
-    width: 400px;
+     width: clamp(400px, 30vw, 450px);
+    height: 63vh;
     text-align: center;
     border-radius: 20px;
     background-image: url(bg-pattern-card.svg);
@@ -86,5 +87,6 @@ span {
     margin-top: 0;
     opacity: 0.9;
 }
+
 
 
